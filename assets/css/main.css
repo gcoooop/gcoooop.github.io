@@ -2724,11 +2724,11 @@ input, select, textarea {
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: inherit;
 		}
 
 			#header a:hover {
-				color: #ffffff !important;
+				color: white !important;
 			}
 
 		#header > header {
